@@ -18,7 +18,7 @@ Berikut adalah ringkasan topik yang dipelajari beserta tautan ke notebook terkai
 
 | Pertemuan | Topik Utama | Link Notebook |
 | :--- | :--- | :--- |
-| **01** | Pengenalan Data Science & CRISP-DM | [Buka Notebook](./Pertemuan1_DataScience.ipynb) |
+| **01** | Pengenalan Data Science & CRISP-DM | [Buka Notebook](./Pertemuan1_Roland_240401010294.ipynb) |
 | **02** | Struktur Data Python, NumPy & Pandas | [Buka Notebook](./Pertemuan2_DataScience.ipynb) |
 | **03** | Data Cleaning (Missing, Outlier & API) | [Buka Notebook](./Pertemuan3_DataScience.ipynb) |
 | **04** | Statistika Dasar & Analisis Data | [Buka Notebook](./Pertemuan4_DataScience.ipynb) |
