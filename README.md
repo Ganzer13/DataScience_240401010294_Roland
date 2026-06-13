@@ -19,12 +19,12 @@ Berikut adalah ringkasan topik yang dipelajari beserta tautan ke notebook terkai
 | Pertemuan | Topik Utama | Link Notebook |
 | :--- | :--- | :--- |
 | **01** | Pengenalan Data Science & CRISP-DM | [Buka Notebook](./Pertemuan1_Roland_240401010294.ipynb) |
-| **02** | Struktur Data Python, NumPy & Pandas | [Buka Notebook](./Pertemuan2_DataScience.ipynb) |
-| **03** | Data Cleaning (Missing, Outlier & API) | [Buka Notebook](./Pertemuan3_DataScience.ipynb) |
-| **04** | Statistika Dasar & Analisis Data | [Buka Notebook](./Pertemuan4_DataScience.ipynb) |
-| **05** | Visualisasi Data | [Buka Notebook](./Pertemuan5_DataScience.ipynb) |
-| **06** | Persiapan Data (Preprocessing & Pipeline) | [Buka Notebook](./Pertemuan6_DataScience.ipynb) |
-| **07** | Pengantar Machine Learning (Regresi) | [Buka Notebook](./Pertemuan7_DataScience.ipynb) |
+| **02** | Struktur Data Python, NumPy & Pandas | [Buka Notebook](./Pertemuan2_Roland_240401010294.ipynb) |
+| **03** | Data Cleaning (Missing, Outlier & API) | [Buka Notebook](./Pertemuan3_Roland_240401010294.ipynb) |
+| **04** | Statistika Dasar & Analisis Data | [Buka Notebook](./Pertemuan4_Roland_240401010294.ipynb) |
+| **05** | Visualisasi Data | [Buka Notebook](./Pertemuan5_Roland_240401010294.ipynb) |
+| **06** | Persiapan Data (Preprocessing & Pipeline) | [Buka Notebook](./Pertemuan6_Roland_240401010294.ipynb) |
+| **07** | Pengantar Machine Learning (Regresi) | [Buka Notebook](./Pertemuan7_Roland_240401010294.ipynb) |
 
 ## 4. Tools & Library yang Digunakan
 Proyek ini dibangun menggunakan bahasa pemrograman **Python** dengan berbagai pustaka (*library*) pendukung:
