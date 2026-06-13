@@ -5,8 +5,8 @@ Selamat datang di repository pembelajaran Data Science saya. Repository ini mend
 ## 1. Informasi Mahasiswa
 * **Nama Lengkap**: Roland Albertian Sehapikang
 * **NIM**: 240401010294
+* **Kelas**: IF403
 * **Program Studi**: PJJ Informatika
-* **Institusi**: Universitas Siber Asia
 
 ## 2. Deskripsi Repository
 Halo! Saya Roland, seorang mahasiswa PJJ Informatika yang memiliki minat besar dalam dunia data. Tujuan saya mempelajari Data Science adalah untuk meningkatkan kemampuan analitis saya dalam mengolah data menjadi informasi yang berharga, yang dapat mendukung pengambilan keputusan yang lebih efektif baik di dunia kerja maupun proyek pribadi.
