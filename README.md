@@ -25,6 +25,7 @@ Berikut adalah ringkasan topik yang dipelajari beserta tautan ke notebook terkai
 | **05** | Visualisasi Data | [Buka Notebook](./Pertemuan5_Roland_240401010294.ipynb) |
 | **06** | Persiapan Data (Preprocessing & Pipeline) | [Buka Notebook](./Pertemuan6_Roland_240401010294.ipynb) |
 | **07** | Pengantar Machine Learning (Regresi) | [Buka Notebook](./Pertemuan7_Roland_240401010294.ipynb) |
+| **09** | Algoritma Klasifikasi | [Buka Notebook](./Pertemuan9_Roland_240401010294.ipynb) |
 
 ## 4. Tools & Library yang Digunakan
 Proyek ini dibangun menggunakan bahasa pemrograman **Python** dengan berbagai pustaka (*library*) pendukung:
