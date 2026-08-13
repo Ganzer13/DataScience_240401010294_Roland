@@ -32,7 +32,6 @@ Berikut adalah ringkasan topik beserta tautan langsung ke Jupyter Notebook untuk
 | **05** | **Supervised Learning: Regresi** | Pemodelan prediktif variabel kontinu menggunakan *Linear Regression* serta evaluasi metrik (MSE, RMSE, $R^2$). | [Notebook P5](https://github.com/Ganzer13/DataScience240401010294Roland/blob/main/Pertemuan5Roland240401010294.ipynb) |
 | **06** | **Supervised Learning: Klasifikasi** | Klasifikasi variabel kategorial (*Logistic Regression*, *Decision Tree*) dan analisis *Confusion Matrix* (Accuracy, Precision, Recall, F1-Score). | [Notebook P6](https://github.com/Ganzer13/DataScience240401010294Roland/blob/main/Pertemuan6Roland240401010294.ipynb) |
 | **07** | **Evaluasi Model & Tuning** | Teknik validasi silang (*Cross-Validation*) serta optimasi hiperparameter menggunakan *GridSearchCV* dan *RandomizedSearchCV*. | [Notebook P7](https://github.com/Ganzer13/DataScience240401010294Roland/blob/main/Pertemuan7Roland240401010294.ipynb) |
-| **08** | **Ujian Tengah Semester (UTS)** | Evaluasi Pemahaman & Proyek Tengah Semester. | *-* |
 | **09** | **Time Series Analysis** | Analisis data deret waktu, pengujian tren, musiman (*seasonality*), dan pemodelan peramalan (*forecasting*). | [Notebook P9](https://github.com/Ganzer13/DataScience240401010294Roland/blob/main/Pertemuan9Roland240401010294.ipynb) |
 | **10** | **Natural Language Processing (NLP)** | Pemrosesan teks (*stemming*, *stopword removal*), ekstraksi fitur berbasis TF-IDF, dan analisis sentimen. | [Notebook P10](https://github.com/Ganzer13/DataScience240401010294Roland/blob/main/Pertemuan10Roland240401010294.ipynb) |
 | **11** | **Unsupervised Learning: Clustering** | Segmentasi data menggunakan **K-Means** dan **Hierarchical Clustering**, optimasi *Elbow Method*, serta validasi *Silhouette Score*. | [Notebook P11](https://github.com/Ganzer13/DataScience240401010294Roland/blob/main/Pertemuan11Roland240401010294.ipynb) |
@@ -52,9 +51,43 @@ Berikut adalah ringkasan topik beserta tautan langsung ke Jupyter Notebook untuk
 
 ---
 
-## 🚀 Cara Menjalankan Notebook Secara Lokal
+## 🛠️ Panduan Penyiapan Environment
 
-1. **Clone Repositori ini:**
-   ```bash
-   git clone [https://github.com/Ganzer13/DataScience240401010294Roland.git](https://github.com/Ganzer13/DataScience240401010294Roland.git)
-   cd DataScience240401010294Roland
+Berikut adalah langkah-langkah untuk membuat *virtual environment*, menginstal dependensi yang dibutuhkan, dan menjalankan *notebook* secara lokal:
+
+### 1. Clone Repositori
+```bash
+git clone [https://github.com/Ganzer13/DataScience240401010294Roland.git](https://github.com/Ganzer13/DataScience240401010294Roland.git)
+cd DataScience240401010294Roland
+```
+### 2. Buat & Aktifkan Virtual Environment
+* Windows (Command Prompt / PowerShell):
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+* Linux / macOS:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+### 3. Install Dependensi & Library
+```bash
+pip install --upgrade pip
+pip install pandas numpy matplotlib seaborn scikit-learn mlxtend scipy jupyter
+```
+### 4. Jalankan Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+---
+
+### 📬 Kontak
+Jika Anda memiliki pertanyaan, saran, atau ingin berdiskusi lebih lanjut terkait isi repositori ini, silakan hubungi melalui:
+
+* Nama: Roland Albertian Sehapikang
+* NIM: 240401010294
+* Program Studi: S1 Informatika (PJJ) — Universitas Siber Asia
+* GitHub: @Ganzer13
+* Email: main.ganzer13@gmail.com
